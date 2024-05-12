@@ -1,0 +1,75 @@
+/* Write your CSS here */
+
+.white-container {
+  background-color: #fff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dark-container {
+  background-color: #150b3e;
+  background-size: cover;
+
+  width: 40vw;
+  padding: 20px;
+  border-radius: 15px;
+}
+.width {
+  width: 200px;
+}
+.pro-and-name {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.profile {
+  background-color: #c7d2fe;
+  height: 50px;
+  width: 50px;
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #7c3aed;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.name {
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: 400;
+  color: #d4d2db;
+  margin-top: 27px;
+}
+
+.balance {
+  font-family: 'roboto';
+  font-size: 18px;
+  font-weight: 400;
+  color: #505076;
+  margin-top: 10px;
+}
+
+.count {
+  color: #d4d2db;
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+.rupees {
+  color: #505076;
+  font-size: 14px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

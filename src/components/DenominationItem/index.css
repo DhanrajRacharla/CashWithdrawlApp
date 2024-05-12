@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+button {
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #c4c4c4;
+  border: 1px solid #c4c4c4;
+  width: 260px;
+  background-color: #382f5a;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
